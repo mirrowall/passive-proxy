@@ -12,6 +12,6 @@ int main() {
     for (iter=fuck.begin(); iter!=fuck.end(); ++iter) {
         std::cout << *iter << std::endl;
     }    
-    std::cout << test;
+    std::cout << test << std::endl;
     return 0;
 }
