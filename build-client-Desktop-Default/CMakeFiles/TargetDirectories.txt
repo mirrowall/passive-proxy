@@ -1,0 +1,3 @@
+/home/miwoo/workspace/mirrorwall/passive-proxy/build-client-Desktop-Default/CMakeFiles/rebuild_cache.dir
+/home/miwoo/workspace/mirrorwall/passive-proxy/build-client-Desktop-Default/CMakeFiles/client.dir
+/home/miwoo/workspace/mirrorwall/passive-proxy/build-client-Desktop-Default/CMakeFiles/edit_cache.dir
